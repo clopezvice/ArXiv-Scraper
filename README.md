@@ -14,7 +14,7 @@
 - [ ] Assignment report
 - [ ] Assignment video
 - [ ] Make propper README.md file (description, usage, etc)
-- [ ] Include license, repository description, etc.
+- [X] Include license, repository description, etc.
 - [ ] Include `.ipynb` with bare-bone usage (?)
 
 

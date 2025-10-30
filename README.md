@@ -9,6 +9,7 @@
 
 ---
 #### TO-DO
+- [ ] Fix "doi" bug on "tag" column
 - [ ] Include `--delay` parse option (Delay time between requests, default = 15s)
 - [ ] Documentation (docstrings, comments, docs, etc)
 - [ ] Assignment report

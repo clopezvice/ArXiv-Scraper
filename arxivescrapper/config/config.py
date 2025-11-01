@@ -20,7 +20,7 @@ ARXIV_BASE_URL = "https://arxiv.org"
 
 REQUESTS_HEADER = {
     "User-Agent": "UOC Data Science scrapper bot.",
-    "From": "acanojo@uoc.edu",
+    "From": "acanojo@uoc.edu, clopezvice@uoc.edu",
     "Accept-Language": "en, es-ES;q=0.9"
 }
 

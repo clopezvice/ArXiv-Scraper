@@ -21,7 +21,9 @@ def get_title(result: element.Tag) -> str:
 def get_tags(result: element.Tag) -> list[str]: #sometimes includes doi, gotta filter that out
     tag_list = []
     for tag in result.select('span.tag'):
-        tag_list.append(tag.get_text(strip=True))
+        text = tag.get_text(strip=True)
+        if text.lower() != 'doi' and not text.startswith('10.'):
+            tag_list.append(text)
     return tag_list
 
 def get_authors(result: element.Tag) -> list[str]:

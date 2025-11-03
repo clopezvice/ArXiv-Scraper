@@ -77,7 +77,7 @@ def number_of_results(soup: BeautifulSoup) -> int | None:
 
 headers = {
     "User-Agent": "UOC Data Science scrapper bot.",
-    "From": "acanojo@uoc.edu",
+    "From": "acanojo@uoc.edu, clopezvice@uoc.edu",
     "Accept-Language": "en, es-ES;q=0.9"
 }
 

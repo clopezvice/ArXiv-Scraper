@@ -18,6 +18,13 @@ Modules required:
 - webtools.url_finder     → Builds search URLs for arXiv queries.
 - webtools.beascrapper    → Fetches and parses HTML using BeautifulSoup.
 - scrappertools.scrappertools → Extracts information from HTML elements.
+
+Authors:
+    - Alejandro Cano Jones (acanojo@uoc.edu)
+    - Christian López (clopezvice@uoc.edu)
+
+Subject:
+    M2.851 - Tipología y ciclo de vida de los datos. Master in Data Science (UOC)
 """
 
 from usercli.usercli import parse_arguments

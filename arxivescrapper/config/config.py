@@ -11,7 +11,7 @@ This module defines all global configuration constants used throughout the
 - Custom HTTP headers for `requests` sessions
 
 Authors:
-    - Alejandro Canojo (acanojo@uoc.edu)
+    - Alejandro Cano Jones (acanojo@uoc.edu)
     - Christian López (clopezvice@uoc.edu)
 
 Subject:

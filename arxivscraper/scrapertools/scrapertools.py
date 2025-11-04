@@ -10,7 +10,7 @@ This module is part of the UOC Data Science project on web scraping.
 
 Authors:
     Alejandro Cano Jones (acanojo@uoc.edu)
-    Christian López (clopezvice@uoc.edu)
+    Christian López Vicente (clopezvice@uoc.edu)
 """
 
 from bs4 import BeautifulSoup, element

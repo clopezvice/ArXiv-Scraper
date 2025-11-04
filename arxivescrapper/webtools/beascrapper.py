@@ -9,7 +9,7 @@ It defines a single function, `get_soup()`, which retrieves the HTML content
 from a given URL, handles possible HTTP errors, and returns a parsed BeautifulSoup object.
 
 Authors:
-    - Alejandro Canojo (acanojo@uoc.edu)
+    - Alejandro Cano Jones (acanojo@uoc.edu)
     - Christian López (clopezvice@uoc.edu)
 
 Subject:

@@ -8,7 +8,7 @@ and pagination. It adapts automatically for physics and non-physics categories
 using predefined configuration mappings.
 
 Authors:
-    - Alejandro Canojo (acanojo@uoc.edu)
+    - Alejandro Cano Jones (acanojo@uoc.edu)
     - Christian López (clopezvice@uoc.edu)
 
 Subject:

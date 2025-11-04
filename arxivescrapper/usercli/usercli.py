@@ -13,7 +13,7 @@ Functions included:
     - parse_arguments(): Builds the CLI, parses user arguments, and validates them.
 
 Authors:
-    Alejandro Canojo (acanojo@uoc.edu)
+    Alejandro Cano Jones (acanojo@uoc.edu)
     Christian López (clopezvice@uoc.edu)
 """
 

@@ -20,6 +20,7 @@
 
 
 [![Author](https://img.shields.io/badge/author-CanoJones-blue)](https://github.com/Cano-Jones)
+[![Author](https://img.shields.io/badge/author-clopezvice-blue)](https://github.com/clopezvice)
 
 <!-- START OF LICENSE -->
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">

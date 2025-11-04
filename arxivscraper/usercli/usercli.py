@@ -14,7 +14,7 @@ Functions included:
 
 Authors:
     Alejandro Cano Jones (acanojo@uoc.edu)
-    Christian López (clopezvice@uoc.edu)
+    Christian López Vicente (clopezvice@uoc.edu)
 """
 
 import argparse

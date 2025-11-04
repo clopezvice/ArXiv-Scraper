@@ -10,7 +10,7 @@ from a given URL, handles possible HTTP errors, and returns a parsed BeautifulSo
 
 Authors:
     - Alejandro Cano Jones (acanojo@uoc.edu)
-    - Christian López (clopezvice@uoc.edu)
+    - Christian López Vicente (clopezvice@uoc.edu)
 
 Subject:
     M2.851 - Tipología y ciclo de vida de los datos. Master in Data Science (UOC)

@@ -9,7 +9,7 @@ categories (tags), abstracts, and the total number of results.
 This module is part of the UOC Data Science project on web scraping.
 
 Authors:
-    Alejandro Canojo (acanojo@uoc.edu)
+    Alejandro Cano Jones (acanojo@uoc.edu)
     Christian López (clopezvice@uoc.edu)
 """
 

@@ -2,7 +2,7 @@
 
 Repository created as part of the "How can we capture data from the web?" assignment for the course *M2.851 - Typology and Data Life Cycle* in the Master's Degree in Data Science (UOC) program. In it, we where asked to identify and extract relevant data for an analytical project using web scraping techniques and tools. As a use case, we selected the preprint plataform **arXiv** to implement a web scraper aimed at extracting metadata and relevant information from selected scientific articles.
 
-In this repository we present the source-code we developed for this endevour, collected into the [`arxivscraper`](https://github.com/clopezvice/PRACT_1.-Web-Scraping/tree/main/arxivscraper) library; alongside an example database (publised on [Zenodo](https://zenodo.org/)), a [project report]() and a [project video]().
+In this repository we present the source-code we developed for this endevour, collected into the [`arxivscraper`](https://github.com/clopezvice/PRACT_1.-Web-Scraping/tree/main/arxivscraper) library; alongside an example database (publised on [Zenodo]([https://zenodo.org/](https://doi.org/10.5281/zenodo.17557643))), a [project report]() and a [project video]().
 
 ## `arxivscraper` library
 The centerpiece of this repo, the `arxivscraper` python module allows the user to gather the principal data of all preprints of a given topic published between two given dates. This data, published as a `.csv`, includes:
@@ -65,6 +65,7 @@ We recommend:
 [![CanoJones](https://img.shields.io/badge/author-CanoJones-blue?logo=github&logoColor=white)](https://github.com/Cano-Jones)
 [![clopezvice](https://img.shields.io/badge/author-clopezvice-orange?logo=github&logoColor=white)](https://github.com/clopezvice)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17557643.svg)](https://doi.org/10.5281/zenodo.17557643)
 
 
 [![CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc-nd/4.0/)

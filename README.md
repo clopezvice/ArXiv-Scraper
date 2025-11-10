@@ -2,7 +2,7 @@
 
 Repository created as part of the "How can we capture data from the web?" assignment for the course *M2.851 - Typology and Data Life Cycle* in the Master's Degree in Data Science (UOC) program. In it, we where asked to identify and extract relevant data for an analytical project using web scraping techniques and tools. As a use case, we selected the preprint plataform **arXiv** to implement a web scraper aimed at extracting metadata and relevant information from selected scientific articles.
 
-In this repository we present the source-code we developed for this endevour, collected into the [`arxivscraper`](https://github.com/clopezvice/ArXiv-Scraper/tree/main/source/arxivscraper) library; alongside an example database (publised on [Zenodo](https://doi.org/10.5281/zenodo.17557644)), a [project report](https://github.com/clopezvice/ArXiv-Scraper/blob/main/arxivscraper_report.pdf) and a [project video]().
+In this repository we present the source-code we developed for this endevour, collected into the [`arxivscraper`](https://github.com/clopezvice/ArXiv-Scraper/tree/main/source/arxivscraper) library; alongside an example database (publised on [Zenodo](https://doi.org/10.5281/zenodo.17557644)), a [project report](https://github.com/clopezvice/ArXiv-Scraper/blob/main/Arxivscraper_report.pdf) and a [project video](https://github.com/clopezvice/ArXiv-Scraper/blob/main/ArXiv-Scraper.mp4).
 
 ## `arxivscraper` library
 The centerpiece of this repo, the `arxivscraper` python module allows the user to gather the principal data of all preprints of a given topic published between two given dates. This data, published as a `.csv`, includes:
